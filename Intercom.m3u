@@ -1,0 +1,427 @@
+#EXTM3U
+
+--
+### AIRE Y NOTICIAS
+--
+#EXTINF:11 tvg-id="" tvg-name="Telefe HD" tvg-logo="https://logo.m3uassets.com/telefe.png" group-title="AIRE Y NOTICIAS",Telefe HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a059/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="El Trece HD" tvg-logo="https://logo.m3uassets.com/eltrece.png" group-title="AIRE Y NOTICIAS",El Trece HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05a/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="America TV HD" tvg-logo="https://logo.m3uassets.com/america.png" group-title="AIRE Y NOTICIAS",America TV HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03b/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="El Nueve HD" tvg-logo="https://logo.m3uassets.com/elnueve.png" group-title="AIRE Y NOTICIAS",El Nueve HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03k/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TV Publica HD" tvg-logo="https://logo.m3uassets.com/tvpublica.png" group-title="AIRE Y NOTICIAS",TV Publica HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03c/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TN HD" tvg-logo="https://logo.m3uassets.com/tn.png" group-title="AIRE Y NOTICIAS",TN HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03l/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="C5N" tvg-logo="https://logo.m3uassets.com/c5n.png" group-title="AIRE Y NOTICIAS",C5N
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a040/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="A24" tvg-logo="https://logo.m3uassets.com/a24.png" group-title="AIRE Y NOTICIAS",A24
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03z/index.m3u8?hls
+#EXTINF:11 tvg-id="" tvg-name="26TV" tvg-logo="https://logo.m3uassets.com/canal26.png" group-title="AIRE Y NOTICIAS",26TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a042/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Crónica" tvg-logo="https://logo.m3uassets.com/cronica.png" group-title="AIRE Y NOTICIAS",Crónica
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a041/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="La Nacion TV" tvg-logo="https://logo.m3uassets.com/lnmas.png" group-title="AIRE Y NOTICIAS",La Nacion TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a043/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CNN en Español" tvg-logo="https://logo.m3uassets.com/cnnespanol.png" group-title="AIRE Y NOTICIAS",CNN en Español
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03j/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Canal de la Ciudad" tvg-logo="https://logo.m3uassets.com/canalciudad.png" group-title="AIRE Y NOTICIAS",Canal de la Ciudad
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01j/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="IP" tvg-logo="https://logo.m3uassets.com/ip.png" group-title="AIRE Y NOTICIAS",IP
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00o/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="NET TV" tvg-logo="https://logo.m3uassets.com/nettv.png" group-title="AIRE Y NOTICIAS",NET TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a095/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="EL DESTAPE TV" tvg-logo="https://logo.m3uassets.com/eldestapetv.png" group-title="AIRE Y NOTICIAS",EL DESTAPE TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00r/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CN23" tvg-logo="https://logo.m3uassets.com/cn23.png" group-title="AIRE Y NOTICIAS",CN23
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a084/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Encuentro" tvg-logo="https://logo.m3uassets.com/encuentro.png" group-title="AIRE Y NOTICIAS",Encuentro
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a013/index.m3u8?hls
+
+--
+### DEPORTES
+--
+#EXTINF:0 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://logo.m3uassets.com/tntsports.png" group-title="DEPORTES",TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a037/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://logo.m3uassets.com/espnpremium.png" group-title="DEPORTES",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a038/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://logo.m3uassets.com/espnhd.png" group-title="DEPORTES",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03n/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://logo.m3uassets.com/espn2hd.png" group-title="DEPORTES",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03m/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="DEPORTES",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03o/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="DEPORTES",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05t/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="https://logo.m3uassets.com/tycsports.png" group-title="DEPORTES",TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04w/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="https://logo.m3uassets.com/foxsports.png" group-title="DEPORTES",Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05u/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" group-title="DEPORTES",Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03p/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" group-title="DEPORTES",Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04x/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="DeporTV" tvg-logo="https://logo.m3uassets.com/deportv.png" group-title="DEPORTES",DeporTV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05d/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="DSports HD" tvg-logo="https://logo.m3uassets.com/dsports.png" group-title="DEPORTES",DSports HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a09i/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="DSports 2 HD" tvg-logo="https://logo.m3uassets.com/dsports2.png" group-title="DEPORTES",DSports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a09h/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="AM Sports" tvg-logo="https://logo.m3uassets.com/amsports.png" group-title="DEPORTES",AM Sports
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a044/index.m3u8?hls
+
+--
+### CINE Y SERIES
+--
+#EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="CINE Y SERIES",HBO
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05e/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="CINE Y SERIES",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05g/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Family" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="CINE Y SERIES",HBO Family
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01m/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://logo.m3uassets.com/hboplus.png" group-title="CINE Y SERIES",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05f/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="CINE Y SERIES",HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04g/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://logo.m3uassets.com/hboxtreme.png" group-title="CINE Y SERIES",HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a017/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HBO POP" tvg-logo="https://logo.m3uassets.com/hbopop.png" group-title="CINE Y SERIES",HBO POP
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a016/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://logo.m3uassets.com/starchannel.png" group-title="CINE Y SERIES",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05w/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="CINE Y SERIES",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a060/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-title="CINE Y SERIES",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00g/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-title="CINE Y SERIES",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a088/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Space HD" tvg-logo="https://logo.m3uassets.com/space.png" group-title="CINE Y SERIES",Space HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a050/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="AXN HD" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="CINE Y SERIES",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00b/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="FX HD" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="CINE Y SERIES",FX HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04z/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://logo.m3uassets.com/cinecanal.png" group-title="CINE Y SERIES",Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05y/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cinemax" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="CINE Y SERIES",Cinemax
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a009/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://logo.m3uassets.com/warner.png" group-title="CINE Y SERIES",Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01h/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Universal HD" tvg-logo="https://logo.m3uassets.com/universaltv.png" group-title="CINE Y SERIES",Universal HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03u/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://logo.m3uassets.com/studiouniversal.png" group-title="CINE Y SERIES",Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a049/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Sony HD" tvg-logo="https://logo.m3uassets.com/sony.png" group-title="CINE Y SERIES",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01g/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="https://logo.m3uassets.com/sonymovies.png" group-title="CINE Y SERIES",Sony Movies HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01i/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="A&E HD" tvg-logo="https://logo.m3uassets.com/ae.png" group-title="CINE Y SERIES",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00c/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="AMC" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="CINE Y SERIES",AMC
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a046/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="AMC SERIES" tvg-logo="https://logo.m3uassets.com/amcseries.png" group-title="CINE Y SERIES",AMC SERIES
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a052/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Cine.AR" tvg-logo="https://logo.m3uassets.com/cinear.png" group-title="CINE Y SERIES",Cine.AR
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04b/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Europa Europa" tvg-logo="https://logo.m3uassets.com/europaeuropa.png" group-title="CINE Y SERIES",Europa Europa
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01o/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TCM" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="CINE Y SERIES",TCM
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a014/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="USA Network" tvg-logo="https://logo.m3uassets.com/usanetwork.png" group-title="CINE Y SERIES",USA Network
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04a/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Adult swim HD" tvg-logo="https://logo.m3uassets.com/adultswim.png" group-title="CINE Y SERIES",Adult swim HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01s/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="CINE Y SERIES",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01d/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="PASIONES" tvg-logo="https://logo.m3uassets.com/pasiones.png" group-title="CINE Y SERIES",PASIONES
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01u/index.m3u8?hls
+
+--
+### DIBUJITOS e INFANTILES
+--
+#EXTINF:0 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="DIBUJITOS",Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05s/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="DIBUJITOS",Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04v/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://logo.m3uassets.com/disneyjunior.png" group-title="DIBUJITOS",Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03d/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="DIBUJITOS",Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03e/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="DIBUJITOS",Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01n/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://logo.m3uassets.com/discoverykids.png" group-title="DIBUJITOS",Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05i/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Baby TV" tvg-logo="https://logo.m3uassets.com/babytv.png" group-title="DIBUJITOS",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04i/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://logo.m3uassets.com/tooncast.png" group-title="DIBUJITOS",TOONCAST
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01w/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Kidoo HD" tvg-logo="https://logo.m3uassets.com/kidoo.png" group-title="DIBUJITOS",Kidoo HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03f/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Pakapaka" tvg-logo="https://logo.m3uassets.com/pakapaka.png" group-title="DIBUJITOS",Pakapaka
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03y/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="https://logo.m3uassets.com/pakapaka.png" group-title="DIBUJITOS",PAKA PAKA
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a08e/index.m3u8?hls
+
+--
+### MUSICA
+--
+#EXTINF:0 tvg-id="" tvg-name="MTV" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="MUSICA",MTV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04q/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HTV" tvg-logo="https://logo.m3uassets.com/htv.png" group-title="MUSICA",HTV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01a/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Quiero Musica" tvg-logo="https://logo.m3uassets.com/quieromusica.png" group-title="MUSICA",Quiero Musica
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04r/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CM" tvg-logo="https://logo.m3uassets.com/cm.png" group-title="MUSICA",CM
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a094/index.m3u8?hls
+
+--
+### DOCUMENTALES Y VARIEDADES
+--
+#EXTINF:0 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="DOCUMENTALES",Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a065/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="The History Channel HD" tvg-logo="https://logo.m3uassets.com/history.png" group-title="DOCUMENTALES",The History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03t/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="History Channel" tvg-logo="https://logo.m3uassets.com/history.png" group-title="DOCUMENTALES",History Channel
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03h/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="History 2" tvg-logo="https://logo.m3uassets.com/history2.png" group-title="DOCUMENTALES",History 2
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a019/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="https://logo.m3uassets.com/natgeo.png" group-title="DOCUMENTALES",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a03s/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="DOCUMENTALES",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04o/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://logo.m3uassets.com/discoverytheater.png" group-title="DOCUMENTALES",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a053/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://logo.m3uassets.com/discoveryworld.png" group-title="DOCUMENTALES",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a055/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png" group-title="DOCUMENTALES",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a045/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="https://logo.m3uassets.com/discoveryhomeandhealth.png" group-title="DOCUMENTALES",Discovery H&H HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a064/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ANIMAL PLÁNET" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="DOCUMENTALES",ANIMAL PLÁNET
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a081/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://logo.m3uassets.com/elgourmet.png" group-title="DOCUMENTALES",El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01p/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="HGTV" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="DOCUMENTALES",HGTV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04n/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Lifetime" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-title="DOCUMENTALES",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01l/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ID HD" tvg-logo="https://logo.m3uassets.com/investigationdiscovery.png" group-title="DOCUMENTALES",ID HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a083/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Film & Arts HD" tvg-logo="https://logo.m3uassets.com/filmandarts.png" group-title="DOCUMENTALES",Film & Arts HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01e/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Volver" tvg-logo="https://logo.m3uassets.com/volver.png" group-title="DOCUMENTALES",Volver
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a048/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Ciudad Magazine" tvg-logo="https://logo.m3uassets.com/ciudadmagazine.png" group-title="DOCUMENTALES",Ciudad Magazine
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04l/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Canal a" tvg-logo="https://logo.m3uassets.com/canala.png" group-title="DOCUMENTALES",Canal a
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a015/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="E! Entertainment" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="DOCUMENTALES",E! Entertainment
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00a/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="EL GARAGE" tvg-logo="https://logo.m3uassets.com/elgarage.png" group-title="DOCUMENTALES",EL GARAGE
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a034/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TEC TV" tvg-logo="https://logo.m3uassets.com/tectv.png" group-title="DOCUMENTALES",TEC TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a08c/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="AUNAR" tvg-logo="https://logo.m3uassets.com/aunar.png" group-title="DOCUMENTALES",AUNAR
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a08g/index.m3u8?hls
+
+--
+### REGIONALES E INTERNACIONALES
+--
+#EXTINF:0 tvg-id="" tvg-name="AIRE SANTA FE" tvg-logo="" group-title="REGIONALES",AIRE SANTA FE
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a08r/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CANAL 11 PARANA" tvg-logo="" group-title="REGIONALES",CANAL 11 PARANA
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a006/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CANAL 9 PARANA" tvg-logo="" group-title="REGIONALES",CANAL 9 PARANA
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a0lo/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CANAL 6 CRESPO" tvg-logo="" group-title="REGIONALES",CANAL 6 CRESPO
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a001/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="O GLOBO" tvg-logo="" group-title="REGIONALES",O GLOBO
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00w/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="BANDEIRANTES" tvg-logo="" group-title="REGIONALES",BANDEIRANTES
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a021/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Record" tvg-logo="" group-title="REGIONALES",Record
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a08x/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CHV" tvg-logo="" group-title="REGIONALES",CHV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a082/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Galicia TV" tvg-logo="" group-title="REGIONALES",Galicia TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01c/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RAI Italia" tvg-logo="https://logo.m3uassets.com/raiitalia.png" group-title="REGIONALES",RAI Italia
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01b/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TVE" tvg-logo="https://logo.m3uassets.com/tve.png" group-title="REGIONALES",TVE
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01r/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="RT en Español" tvg-logo="https://logo.m3uassets.com/rt.png" group-title="REGIONALES",RT en Español
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01k/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TeleSUR" tvg-logo="https://logo.m3uassets.com/telesur.png" group-title="REGIONALES",TeleSUR
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a08p/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.m3uassets.com/lasestrellas.png" group-title="REGIONALES",El Canal  de las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a05o/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="TLNovelas" tvg-logo="https://logo.m3uassets.com/tlnovelas.png" group-title="REGIONALES",TLNovelas
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01q/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Metro" tvg-logo="https://logo.m3uassets.com/metro.png" group-title="REGIONALES",Metro
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a018/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Rural" tvg-logo="https://logo.m3uassets.com/canalrural.png" group-title="REGIONALES",Rural
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a04j/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="CANAL E" tvg-logo="" group-title="REGIONALES",CANAL E
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a08t/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ARGENTINISIMA" tvg-logo="" group-title="REGIONALES",ARGENTINISIMA
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01z/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="EL FOLKLORICO TV" tvg-logo="" group-title="REGIONALES",EL FOLKLORICO TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a024/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="T5" tvg-logo="" group-title="REGIONALES",T5
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01v/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="UCL" tvg-logo="" group-title="REGIONALES",UCL
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a00z/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Allegro TV" group-title="REGIONALES",Allegro TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a098/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="IN" group-title="REGIONALES",IN
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a012/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="Eventos HD" group-title="REGIONALES",Eventos HD
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a022/index.m3u8?hls
+
+--
+### RELIGIOSOS
+--
+#EXTINF:0 tvg-id="" tvg-name="EWTN" tvg-logo="https://logo.m3uassets.com/ewtn.png" group-title="RELIGIOSOS",EWTN
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01t/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="ENLACE" tvg-logo="https://logo.m3uassets.com/enlace.png" group-title="RELIGIOSOS",ENLACE
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a020/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="NUEVO TIEMPO" tvg-logo="https://logo.m3uassets.com/nuevotiempo.png" group-title="RELIGIOSOS",NUEVO TIEMPO
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a01x/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="REMANSO TV" group-title="RELIGIOSOS",REMANSO TV
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a003/index.m3u8?hls
+#EXTINF:0 tvg-id="" tvg-name="REMANSO2" group-title="RELIGIOSOS",REMANSO2
+#EXTVLCOPT:network-caching=1000
+http://190.7.19.197:232/play/a036/index.m3u8?hls
+
